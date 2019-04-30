@@ -1,0 +1,55 @@
+td {
+    height: 100px;
+    width: 100px;
+    /* background-color: rgb(138, 63, 63); */
+    margin: auto;
+    text-align: center;
+    /* justify-content: center;
+    align-items: center; */
+    font-size: 72px;
+    font-family: 'Gloria Hallelujah', cursive;
+
+}
+table {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .row1 
+  {
+      border-top: 4px solid gray;
+      border-bottom: 4px solid gray;
+  }
+  .col1 {
+    border-left: 4px solid gray;
+    border-right: 4px solid gray;
+  }
+  h1 {
+    font-family: 'Gugi', cursive;
+      margin-top: 5%;
+      margin-bottom: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  footer {
+      background-color: rgb(157, 160, 165);
+      margin-bottom: 0;
+      text-align: center;
+      position:absolute;
+      left:0px;
+      bottom:0px;
+      height:30px;
+      width:100%;
+  }
+  .btn {
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  h3 {
+    text-align: center;
+  }
